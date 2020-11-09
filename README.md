@@ -19,11 +19,16 @@ This is a list of everything I use and recommend for playing/streaming!
 
 # Microphones
 
-**Samson Meteor Mic (Titanium Black)** - [US](https://amzn.to/3eEBY9I) / [CA](https://amzn.to/38rrPfG) / [UK](https://amzn.to/3eIblRl)
+• **Samson Meteor Mic (Titanium Black)** - [US](https://amzn.to/3eEBY9I) / [CA](https://amzn.to/38rrPfG) / [UK](https://amzn.to/3eIblRl)
 
-**Blue Snowball (Gloss Black)** - [US](https://amzn.to/36juyVB) / [CA](https://amzn.to/2GGXr5h) / [UK](https://amzn.to/3kbaDgE)
+• **Blue Snowball (Gloss Black)** - [US](https://amzn.to/36juyVB) / [CA](https://amzn.to/2GGXr5h) / [UK](https://amzn.to/3kbaDgE)
 
 # Misc
-mic arm, shock thing, pudding keycaps, usb thing
+• **TONOR Microphone Arm Stand** - US / [CA](https://amzn.to/3n7Xh6w) / [UK](https://amzn.to/2Ub4Lct)
+
+• **Neewer Microphone Shock Mount** - [US](https://amzn.to/2GLyplG) / [CA](https://amzn.to/3pb6j4t) / [UK](https://amzn.to/3lcS8tz)
+
+• **Pudding Keycaps Set** - [US](https://amzn.to/2IokLFi) / [CA](https://amzn.to/2IjWNvb) / [UK](https://amzn.to/38xKq9A)
+
 
 # PC Setup
