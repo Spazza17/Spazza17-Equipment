@@ -3,7 +3,7 @@
 This is a list of everything I use and recommend for playing/streaming!
 
 # Tablets
-**XP-Pen G640** - [US](https://amzn.to/32rqUIa)
+•**XP-Pen G640** - [US](https://amzn.to/32rqUIa)
 
 # Webcams
 
