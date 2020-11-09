@@ -50,6 +50,8 @@ This is a list of everything I use and recommend for playing/streaming! (Last up
 
 • **G.Skill F4-3200C16D-16GIS Aegis DDR4 RAM** - [US](https://amzn.to/3pb1acM) / [CA](https://amzn.to/2Ub0Dcw) / [UK](https://amzn.to/3ldrH6Q)
 
+• **Cooler Master NR400 Tower Case** - [US](https://amzn.to/3kixWVI) / [CA](https://amzn.to/38ntHpD) / [UK](https://amzn.to/36iPsUW)
+
 • **WD Blue 3D NAND 1TB SSD** - [US](https://amzn.to/38rUW28) / [CA](https://amzn.to/36iUPDF) / [UK](https://amzn.to/36huiGJ)
 
 • **ADATA XPG SX8200 Pro 1TB SSD** - [US](https://amzn.to/3pgac8C) / [CA](https://amzn.to/2U6sjzo) / [UK](https://amzn.to/3kdytsa)
