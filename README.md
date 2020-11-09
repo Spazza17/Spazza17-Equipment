@@ -15,6 +15,7 @@ This is a list of everything I use and recommend for playing/streaming!
 • **Logitech C920/x HD Pro Webcam** - [US](https://amzn.to/32tHneR) / [CA](https://amzn.to/3eGufb5) / [UK](https://amzn.to/35eOg5L)
 
 • **Playstation Eye** - [US](https://amzn.to/32tHk2F) / [CA](https://amzn.to/3lhfLBg) / [UK](https://amzn.to/36gkE7a)
+
 # Monitors
 • **BenQ ZOWIE XL2411P 144HZ** - [US](https://amzn.to/3k9qFaR) / [CA](https://amzn.to/38pAIWV) / [UK](https://amzn.to/3eEKTbj)
 
@@ -25,12 +26,17 @@ This is a list of everything I use and recommend for playing/streaming!
 
 • **Blue Snowball (Gloss Black)** - [US](https://amzn.to/36juyVB) / [CA](https://amzn.to/2GGXr5h) / [UK](https://amzn.to/3kbaDgE)
 
-# Misc
-• **TONOR Microphone Arm Stand** - *US* / [CA](https://amzn.to/3n7Xh6w) / [UK](https://amzn.to/2Ub4Lct)
+• **TONOR Microphone Arm Stand** - US / [CA](https://amzn.to/3n7Xh6w) / [UK](https://amzn.to/2Ub4Lct)
 
 • **Neewer Microphone Shock Mount** - [US](https://amzn.to/2GLyplG) / [CA](https://amzn.to/3pb6j4t) / [UK](https://amzn.to/3lcS8tz)
 
+# Misc
+• **Sennheiser HD 201 Headphones** - [US](https://amzn.to/35eNo10) / [CA](https://amzn.to/3lehKWU) / [UK](https://amzn.to/3ldJJpr)
+
+• **SteelSeries QcK Mouse Pad** - [US](https://amzn.to/2UcMb3C) / [CA](https://amzn.to/3pjJUlV) / [UK](https://amzn.to/3liz6Ss)
+
 • **Pudding Keycaps Set** - [US](https://amzn.to/2IokLFi) / [CA](https://amzn.to/2IjWNvb) / [UK](https://amzn.to/38xKq9A)
 
+• **Mini USB Desk Fan** - [US](https://amzn.to/3lhryiP) / [CA](https://amzn.to/3kefKMM) / [UK](https://amzn.to/2JLc88x)
 
 # PC Setup
