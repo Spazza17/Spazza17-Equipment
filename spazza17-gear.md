@@ -40,3 +40,5 @@ This is a list of everything I use and recommend for playing/streaming! (Last up
 • **Mini USB Desk Fan** - [US](https://amzn.to/3lhryiP) / [CA](https://amzn.to/3kefKMM) / [UK](https://amzn.to/2JLc88x)
 
 # PC Setup
+• **WD Blue 3D NAND Internal SSD** - [US](https://amzn.to/38rUW28) / [CA](https://amzn.to/36iUPDF) / [UK](https://amzn.to/36huiGJ)
+
