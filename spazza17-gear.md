@@ -40,5 +40,17 @@ This is a list of everything I use and recommend for playing/streaming! (Last up
 • **Mini USB Desk Fan** - [US](https://amzn.to/3lhryiP) / [CA](https://amzn.to/3kefKMM) / [UK](https://amzn.to/2JLc88x)
 
 # PC Setup
-• **WD Blue 3D NAND Internal SSD** - [US](https://amzn.to/38rUW28) / [CA](https://amzn.to/36iUPDF) / [UK](https://amzn.to/36huiGJ)
+• **AMD Ryzen 5 3600 Processor** - [US](https://amzn.to/2JSOmYv) / [CA](https://amzn.to/2U9BjDR) / [UK](https://amzn.to/3eLoNUr)
+
+• **Gigabyte GeForce GTX 1660** - [US](https://amzn.to/3pcwyHR) / [CA](https://amzn.to/2JQSMz4) / [UK](https://amzn.to/38lWnPQ)
+
+• **MSI MAG B550M Motherboard** - [US](https://amzn.to/3eJatMj) / [CA](https://amzn.to/3ke8KzJ) / [UK](https://amzn.to/2Ipit8U)
+
+• **Corsair RM650x Power Supply 650W** - [US](https://amzn.to/2U9A7QT) / [CA](https://amzn.to/2U9bS5j) / [UK](https://amzn.to/2JSmFis)
+
+• **G.Skill F4-3200C16D-16GIS Aegis DDR4 RAM** - [US](https://amzn.to/3pb1acM) / [CA](https://amzn.to/2Ub0Dcw) / [UK](https://amzn.to/3ldrH6Q)
+
+• **WD Blue 3D NAND 1TB SSD** - [US](https://amzn.to/38rUW28) / [CA](https://amzn.to/36iUPDF) / [UK](https://amzn.to/36huiGJ)
+
+• **ADATA XPG SX8200 Pro 1TB SSD** - [US](https://amzn.to/3pgac8C) / [CA](https://amzn.to/2U6sjzo) / [UK](https://amzn.to/3kdytsa)
 
