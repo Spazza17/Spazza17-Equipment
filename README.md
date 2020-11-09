@@ -2,9 +2,8 @@
 
 This is a list of everything I use and recommend for playing/streaming!
 
-# Keyboards
-
 # Tablets
+**XP-Pen G640** - [US](https://amzn.to/32rqUIa)
 
 # Webcams
 
