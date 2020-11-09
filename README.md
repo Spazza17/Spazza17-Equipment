@@ -3,7 +3,7 @@
 This is a list of everything I use and recommend for playing/streaming!
 
 # Tablets
-• **XP-Pen G640** - [US](https://amzn.to/32rqUIa) / CA / UK
+• **XP-Pen G640** - [US](https://amzn.to/32rqUIa) / [CA](https://amzn.to/358SxHM) / [UK](https://amzn.to/3keiJ8e)
 
 • **XP-Pen G640 Line Friends Edition** - [US](https://amzn.to/38ughbl) / CA / UK
 
