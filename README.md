@@ -17,6 +17,9 @@ This is a list of everything I use and recommend for playing/streaming!
 • **Playstation Eye** - [US](https://amzn.to/32tHk2F) / [CA](https://amzn.to/3lhfLBg) / [UK](https://amzn.to/36gkE7a)
 # Monitors
 
+• **BenQ ZOWIE XL2411P**
+• **BenQ GL2480**
+
 # Microphones
 
 • **Samson Meteor Mic (Titanium Black)** - [US](https://amzn.to/3eEBY9I) / [CA](https://amzn.to/38rrPfG) / [UK](https://amzn.to/3eIblRl)
