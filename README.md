@@ -3,9 +3,13 @@
 This is a list of everything I use and recommend for playing/streaming!
 
 # Tablets
-• **XP-Pen G640 - [US](https://amzn.to/32rqUIa) / CA /**
+• **XP-Pen G640** - [US](https://amzn.to/32rqUIa) / CA / UK
 
-• **XP-Pen G640 Line Friends Edition - [US](https://amzn.to/38ughbl)**
+• **XP-Pen G640 Line Friends Edition** - [US](https://amzn.to/38ughbl) / CA / UK
+
+• **GAOMON S620 Pen Tablet** - [US](https://amzn.to/3ld6YQP)
+
+• **GAOMON PD1161 Pen Display** [US](https://amzn.to/2JUeH8F)
 
 # Webcams
 
