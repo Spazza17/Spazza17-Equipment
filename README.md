@@ -16,9 +16,9 @@ This is a list of everything I use and recommend for playing/streaming!
 
 • **Playstation Eye** - [US](https://amzn.to/32tHk2F) / [CA](https://amzn.to/3lhfLBg) / [UK](https://amzn.to/36gkE7a)
 # Monitors
+• **BenQ ZOWIE XL2411P 144HZ** - [US](https://amzn.to/3k9qFaR) / [CA](https://amzn.to/38pAIWV) / [UK](https://amzn.to/3eEKTbj)
 
-• **BenQ ZOWIE XL2411P**
-• **BenQ GL2480**
+• **BenQ GL2480 75HZ** - [US](https://amzn.to/2U8Kq7H) / [CA](https://amzn.to/2Imjej3) / [UK](https://amzn.to/3pcg9mQ)
 
 # Microphones
 
