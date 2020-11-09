@@ -21,13 +21,12 @@ This is a list of everything I use and recommend for playing/streaming!
 • **BenQ GL2480 75HZ** - [US](https://amzn.to/2U8Kq7H) / [CA](https://amzn.to/2Imjej3) / [UK](https://amzn.to/3pcg9mQ)
 
 # Microphones
-
 • **Samson Meteor Mic (Titanium Black)** - [US](https://amzn.to/3eEBY9I) / [CA](https://amzn.to/38rrPfG) / [UK](https://amzn.to/3eIblRl)
 
 • **Blue Snowball (Gloss Black)** - [US](https://amzn.to/36juyVB) / [CA](https://amzn.to/2GGXr5h) / [UK](https://amzn.to/3kbaDgE)
 
 # Misc
-• **TONOR Microphone Arm Stand** - US / [CA](https://amzn.to/3n7Xh6w) / [UK](https://amzn.to/2Ub4Lct)
+• **TONOR Microphone Arm Stand** - **US** / [CA](https://amzn.to/3n7Xh6w) / [UK](https://amzn.to/2Ub4Lct)
 
 • **Neewer Microphone Shock Mount** - [US](https://amzn.to/2GLyplG) / [CA](https://amzn.to/3pb6j4t) / [UK](https://amzn.to/3lcS8tz)
 
