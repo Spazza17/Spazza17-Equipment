@@ -17,7 +17,11 @@ This is a list of everything I use and recommend for playing/streaming!
 • **Playstation Eye** - [US](https://amzn.to/32tHk2F) / [CA](https://amzn.to/3lhfLBg) / [UK](https://amzn.to/36gkE7a)
 # Monitors
 
-# Microphone
+# Microphones
+
+**Samson Meteor Mic (Titanium Black)** - [US](https://amzn.to/3eEBY9I) / [CA](https://amzn.to/38rrPfG) / [UK](https://amzn.to/3eIblRl)
+
+**Blue Snowball (Gloss Black)** - [US](https://amzn.to/36juyVB) / [CA](https://amzn.to/2GGXr5h) / [UK](https://amzn.to/3kbaDgE)
 
 # Misc
 mic arm, shock thing, pudding keycaps, usb thing
