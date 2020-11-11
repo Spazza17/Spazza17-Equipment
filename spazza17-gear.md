@@ -26,9 +26,9 @@ This is a list of everything I use and recommend for playing/streaming! (Last up
 
 • **Blue Snowball (Gloss Black)** - [US](https://amzn.to/36juyVB) / [CA](https://amzn.to/2GGXr5h) / [UK](https://amzn.to/3kbaDgE)
 
-• **TONOR Microphone Arm Stand** - US / [CA](https://amzn.to/3n7Xh6w) / [UK](https://amzn.to/2Ub4Lct)
+• **TONOR Microphone Arm Stand** - US / [CA](https://amzn.to/3n7Xh6w) / [UK](https://amzn.to/2Ub4Lct) / [IT](https://amzn.to/36umW2y)
 
-• **Neewer Microphone Shock Mount** - [US](https://amzn.to/2GLyplG) / [CA](https://amzn.to/3pb6j4t) / [UK](https://amzn.to/3lcS8tz)
+• **Neewer Microphone Shock Mount** - [US](https://amzn.to/2GLyplG) / [CA](https://amzn.to/3pb6j4t) / [UK](https://amzn.to/3lcS8tz) / [IT](https://amzn.to/2IqpW8h)
 
 # Misc
 • **Sennheiser HD 201 Headphones** - [US](https://amzn.to/35eNo10) / [CA](https://amzn.to/3lehKWU) / [UK](https://amzn.to/3ldJJpr)
