@@ -24,20 +24,20 @@ This is a list of everything I use and recommend for playing/streaming! (Last up
 # Microphones
 • **Samson Meteor Mic (Titanium Black)** - [US](https://amzn.to/3eEBY9I) / [CA](https://amzn.to/38rrPfG) / [UK](https://amzn.to/3eIblRl) / [IT](https://amzn.to/36uP45G)
 
-• **Blue Snowball (Gloss Black)** - [US](https://amzn.to/36juyVB) / [CA](https://amzn.to/2GGXr5h) / [UK](https://amzn.to/3kbaDgE) / [IT]
+• **Blue Snowball (Gloss Black)** - [US](https://amzn.to/36juyVB) / [CA](https://amzn.to/2GGXr5h) / [UK](https://amzn.to/3kbaDgE) / [IT](https://amzn.to/32vyXDO)
 
-• **TONOR Microphone Arm Stand** - US / [CA](https://amzn.to/3n7Xh6w) / [UK](https://amzn.to/2Ub4Lct) / [IT](https://amzn.to/36umW2y) / [IT]
+• **TONOR Microphone Arm Stand** - US / [CA](https://amzn.to/3n7Xh6w) / [UK](https://amzn.to/2Ub4Lct) / [IT](https://amzn.to/36umW2y)
 
 • **Neewer Microphone Shock Mount** - [US](https://amzn.to/2GLyplG) / [CA](https://amzn.to/3pb6j4t) / [UK](https://amzn.to/3lcS8tz) / [IT](https://amzn.to/2IqpW8h)
 
 # Misc
-• **Sennheiser HD 201 Headphones** - [US](https://amzn.to/35eNo10) / [CA](https://amzn.to/3lehKWU) / [UK](https://amzn.to/3ldJJpr) / [IT]
+• **Sennheiser HD 201 Headphones** - [US](https://amzn.to/35eNo10) / [CA](https://amzn.to/3lehKWU) / [UK](https://amzn.to/3ldJJpr) / [IT](https://amzn.to/3lojddb)
 
-• **SteelSeries QcK Mouse Pad** - [US](https://amzn.to/2UcMb3C) / [CA](https://amzn.to/3pjJUlV) / [UK](https://amzn.to/3liz6Ss) / [IT]
+• **SteelSeries QcK Mouse Pad** - [US](https://amzn.to/2UcMb3C) / [CA](https://amzn.to/3pjJUlV) / [UK](https://amzn.to/3liz6Ss) / [IT](https://amzn.to/3eOLRlb)
 
-• **Pudding Keycaps Set** - [US](https://amzn.to/2IokLFi) / [CA](https://amzn.to/2IjWNvb) / [UK](https://amzn.to/38xKq9A) / [IT]
+• **Pudding Keycaps Set** - [US](https://amzn.to/2IokLFi) / [CA](https://amzn.to/2IjWNvb) / [UK](https://amzn.to/38xKq9A) / [IT](https://amzn.to/3kp07SS)
 
-• **Mini USB Desk Fan** - [US](https://amzn.to/3lhryiP) / [CA](https://amzn.to/3kefKMM) / [UK](https://amzn.to/2JLc88x) / [IT]
+• **Mini USB Desk Fan** - [US](https://amzn.to/3lhryiP) / [CA](https://amzn.to/3kefKMM) / [UK](https://amzn.to/2JLc88x) / [IT](https://amzn.to/32AA6dd)
 
 # PC Setup
 • **AMD Ryzen 5 3600 Processor** - [US](https://amzn.to/2JSOmYv) / [CA](https://amzn.to/2U9BjDR) / [UK](https://amzn.to/3eLoNUr) / [IT]
