@@ -11,6 +11,10 @@ This is a list of everything I use and recommend for playing/streaming! (Last up
 
 • **GAOMON PD1161 Pen Display** [US](https://amzn.to/2JUeH8F) / [CA](https://amzn.to/2Iio69q) / [UK](https://amzn.to/2Ub5x9o) / [IT](https://amzn.to/35irfPk)
 
+# Keyboards
+
+• **HyperX Alloy Origins Red Switches** - [US](https://amzn.to/37wGCVb) / [CA](https://amzn.to/3p8bTDW) / [UK](https://amzn.to/2Kjnvp0) / [IT](https://amzn.to/3p5sCYt)
+
 # Webcams
 • **Logitech C920/x HD Pro Webcam** - [US](https://amzn.to/32tHneR) / [CA](https://amzn.to/3eGufb5) / [UK](https://amzn.to/35eOg5L) / [IT](https://amzn.to/2Ih1Lt1)
 
