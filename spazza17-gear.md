@@ -39,7 +39,7 @@ This is a list of everything I use and recommend for playing/streaming! (Last up
 
 • **SteelSeries QcK Mouse Pad** - [US](https://amzn.to/2UcMb3C) / [CA](https://amzn.to/3pjJUlV) / [UK](https://amzn.to/3liz6Ss) / [IT](https://amzn.to/3eOLRlb)
 
-• **Pudding Keycaps Set** - [US](https://amzn.to/2IokLFi) / [CA](https://amzn.to/2IjWNvb) / [UK](https://amzn.to/38xKq9A) / [IT](https://amzn.to/3kp07SS)
+• **Pudding Keycaps Set** - [US](https://amzn.to/3pi5GWg) / [CA](https://amzn.to/2IjWNvb) / [UK](https://amzn.to/38xKq9A) / [IT](https://amzn.to/3kp07SS)
 
 • **Mini USB Desk Fan** - [US](https://amzn.to/3lhryiP) / [CA](https://amzn.to/3kefKMM) / [UK](https://amzn.to/2JLc88x) / [IT](https://amzn.to/32AA6dd)
 
