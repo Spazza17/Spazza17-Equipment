@@ -13,7 +13,13 @@ This is a list of everything I use and recommend for playing/streaming! (Last up
 
 # Keyboards
 
+• **HyperX Alloy Origins Core Red Switches** - [US](https://amzn.to/2Ne3tx8) / [CA](https://amzn.to/3sHjtYK) / [UK](https://amzn.to/2Y07K9z) / [IT](https://amzn.to/360Q1mO)
+
 • **HyperX Alloy Origins Red Switches** - [US](https://amzn.to/37wGCVb) / [CA](https://amzn.to/3p8bTDW) / [UK](https://amzn.to/2Kjnvp0) / [IT](https://amzn.to/3p5sCYt)
+
+• **Durgod Taurus K320 TKL Silent Red Switches** - [US](https://amzn.to/2MaSF2d) / [CA](https://amzn.to/39Rgc0q) / [UK](https://amzn.to/3sFCdYJ) / [IT](https://amzn.to/3p1Mnkl)
+
+• **Leopold FC900R PD Black Switches** - You can get it off https://mechanicalkeyboards.com/ using creator code SPAZZA
 
 # Webcams
 • **Logitech C920/x HD Pro Webcam** - [US](https://amzn.to/32tHneR) / [CA](https://amzn.to/3eGufb5) / [UK](https://amzn.to/35eOg5L) / [IT](https://amzn.to/2Ih1Lt1)
