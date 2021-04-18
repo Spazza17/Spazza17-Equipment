@@ -1,4 +1,4 @@
-# Spazza17's Equipment/Gear 2020
+# Spazza17's Equipment/Gear 2021
 
 This is a list of everything I use and recommend for playing/streaming! (Last updated: April 2021)
 
