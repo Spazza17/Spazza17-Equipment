@@ -3,11 +3,11 @@
 This is a list of everything I use and recommend for playing/streaming! (Last updated: November 2020)
 
 # Tablets
+• **GAOMON S620 Pen Tablet** - [US](https://amzn.to/3ld6YQP) / [CA](https://amzn.to/3n8hTvC) / [UK](https://amzn.to/3p8StzD) / [IT](https://amzn.to/3khbDzD)
+
 • **XP-Pen G640** - [US](https://amzn.to/32rqUIa) / [CA](https://amzn.to/358SxHM) / [UK](https://amzn.to/3keiJ8e) / [IT](https://amzn.to/32Bh2LX)
 
 • **XP-Pen G640 Line Friends Edition** - [US](https://amzn.to/38ughbl) / [CA](https://amzn.to/3lfVDzf) / [UK](https://amzn.to/3pdhvxy) / [IT](https://amzn.to/3n9sIgI)
-
-• **GAOMON S620 Pen Tablet** - [US](https://amzn.to/3ld6YQP) / [CA](https://amzn.to/3n8hTvC) / [UK](https://amzn.to/3p8StzD) / [IT](https://amzn.to/3khbDzD)
 
 • **GAOMON PD1161 Pen Display** [US](https://amzn.to/2JUeH8F) / [CA](https://amzn.to/2Iio69q) / [UK](https://amzn.to/2Ub5x9o) / [IT](https://amzn.to/35irfPk)
 
