@@ -1,15 +1,15 @@
 # Spazza17's Equipment/Gear 2020
 
-This is a list of everything I use and recommend for playing/streaming! (Last updated: November 2020)
+This is a list of everything I use and recommend for playing/streaming! (Last updated: April 2021)
 
 # Tablets
 • **GAOMON S620 Pen Tablet** - [US](https://amzn.to/3ld6YQP) / [CA](https://amzn.to/3n8hTvC) / [UK](https://amzn.to/3p8StzD) / [IT](https://amzn.to/3khbDzD)
 
+• **GAOMON PD1161 Pen Display** - [US](https://amzn.to/2JUeH8F) / [CA](https://amzn.to/2Iio69q) / [UK](https://amzn.to/2Ub5x9o) / [IT](https://amzn.to/35irfPk)
+
 • **XP-Pen G640** - [US](https://amzn.to/32rqUIa) / [CA](https://amzn.to/358SxHM) / [UK](https://amzn.to/3keiJ8e) / [IT](https://amzn.to/32Bh2LX)
 
 • **XP-Pen G640 Line Friends Edition** - [US](https://amzn.to/38ughbl) / [CA](https://amzn.to/3lfVDzf) / [UK](https://amzn.to/3pdhvxy) / [IT](https://amzn.to/3n9sIgI)
-
-• **GAOMON PD1161 Pen Display** [US](https://amzn.to/2JUeH8F) / [CA](https://amzn.to/2Iio69q) / [UK](https://amzn.to/2Ub5x9o) / [IT](https://amzn.to/35irfPk)
 
 # Keyboards
 • **Epomaker G96S** - You can get it on [Epomaker.com](https://epomaker.com/products/gk96s?sca_ref=726781.Q0Hd9tVuaT&sca_source=Youtube)!
@@ -31,6 +31,8 @@ This is a list of everything I use and recommend for playing/streaming! (Last up
 • **Deck Hassium Pro** - You can get it on https://mechanicalkeyboards.com/ using code SPAZZA at checkout!
 
 # Webcams
+• **Logitech C922 Pro Stream Webcam** - [US](https://amzn.to/3mVaW27) / [CA](https://amzn.to/3eayiN6) / [UK](https://amzn.to/3dqQgvK) / [IT](https://amzn.to/2RETDXj)
+
 • **Logitech C920/x HD Pro Webcam** - [US](https://amzn.to/32tHneR) / [CA](https://amzn.to/3eGufb5) / [UK](https://amzn.to/35eOg5L) / [IT](https://amzn.to/2Ih1Lt1)
 
 • **Playstation Eye** - [US](https://amzn.to/32tHk2F) / [CA](https://amzn.to/3lhfLBg) / [UK](https://amzn.to/36gkE7a) / [IT](https://amzn.to/3eSL9U3)
