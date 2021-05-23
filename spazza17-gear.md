@@ -12,7 +12,7 @@ This is a list of everything I use and recommend for playing/streaming! (Last up
 • **XP-Pen G640 Line Friends Edition** - [US](https://amzn.to/38ughbl) / [CA](https://amzn.to/3lfVDzf) / [UK](https://amzn.to/3pdhvxy) / [IT](https://amzn.to/3n9sIgI)
 
 # Keyboards
-• **BFKB113PBK** - You can get it off amazon.jp using [Buyee!](https://bit.ly/3sE58Mq) Sign up using [my link](https://bit.ly/3sE58Mq) for a 2,000YEN off coupon
+• **BFKB113PBK** - You can get it off amazon.jp using [Buyee](https://bit.ly/3sE58Mq)! Sign up with [my link](https://bit.ly/3sE58Mq) for a 2,000YEN off coupon
  
 • **Epomaker G96S** - You can get it on [Epomaker.com](https://epomaker.com/products/gk96s?sca_ref=726781.Q0Hd9tVuaT&sca_source=Youtube)!
 
