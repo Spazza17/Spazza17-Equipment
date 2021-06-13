@@ -3,7 +3,7 @@
 This is a list of everything I use and recommend for playing/streaming!
 
 # Tablets
-• **Wacom CTL-472 (CURRENTLY USING)** - [US](https://amzn.to/3ld6YQP) / [CA](https://amzn.to/3n8hTvC) / [UK](https://amzn.to/3p8StzD) / [IT](https://amzn.to/3khbDzD)
+• **Wacom CTL-472** - [US](https://amzn.to/3ld6YQP) / [CA](https://amzn.to/3n8hTvC) / [UK](https://amzn.to/3p8StzD) / [IT](https://amzn.to/3khbDzD)
 -
 • **GAOMON S620 Pen Tablet** - [US](https://amzn.to/3ld6YQP) / [CA](https://amzn.to/3n8hTvC) / [UK](https://amzn.to/3p8StzD) / [IT](https://amzn.to/3khbDzD)
 
