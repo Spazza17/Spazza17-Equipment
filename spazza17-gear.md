@@ -1,6 +1,6 @@
-# Spazza17's Equipment/Gear 2021 (Last updated: June 2021)
+# Spazza17's Equipment/Gear 2021 (Last update: June 2021)
 
-This is a list of everything I use and recommend for playing/streaming (Last updated: May 2021)
+This is a list of everything I use and recommend for playing/streaming!
 
 # Tablets
 • **GAOMON S620 Pen Tablet** - [US](https://amzn.to/3ld6YQP) / [CA](https://amzn.to/3n8hTvC) / [UK](https://amzn.to/3p8StzD) / [IT](https://amzn.to/3khbDzD)
