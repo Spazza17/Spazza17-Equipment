@@ -4,7 +4,7 @@ This is a list of everything I use and recommend for playing/streaming!
 
 # Tablets
 • **Wacom CTL-472** - [US](https://amzn.to/3cDJAt8) / [CA](https://amzn.to/3cDx4tS) / [UK](https://amzn.to/2SnoTet) / [IT](https://amzn.to/2TS3MB5)
--
+
 • **GAOMON S620 Pen Tablet** - [US](https://amzn.to/3ld6YQP) / [CA](https://amzn.to/3n8hTvC) / [UK](https://amzn.to/3p8StzD) / [IT](https://amzn.to/3khbDzD)
 
 • **GAOMON PD1161 Pen Display** - [US](https://amzn.to/2JUeH8F) / [CA](https://amzn.to/2Iio69q) / [UK](https://amzn.to/2Ub5x9o) / [IT](https://amzn.to/35irfPk)
@@ -17,7 +17,7 @@ This is a list of everything I use and recommend for playing/streaming!
 • **BFKB113PBK** - You can get it off amazon.jp using [Buyee](https://bit.ly/3sE58Mq)! Sign up with [my link](https://bit.ly/3sE58Mq) for a 2,000YEN off coupon
  
 • **Epomaker G96S** - You can get it on [Epomaker.com](https://epomaker.com/products/gk96s?sca_ref=726781.Q0Hd9tVuaT&sca_source=Youtube)!
--
+
 • **Gamakay MK61** - You can get it on [Banggood.com](https://www.banggood.com/custlink/GK3Rjmup97)!
 
 • **Varmilo VA87M Sakura Pink** - You can get it on https://mechanicalkeyboards.com/ using code SPAZZA at checkout!
