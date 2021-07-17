@@ -1,4 +1,4 @@
-# Spazza17's Equipment/Gear 2021 (Last update: June 2021)
+# Spazza17's Equipment/Gear 2021 (Last update: July 2021)
 
 This is a list of everything I use and recommend for playing/streaming!
 
@@ -14,6 +14,8 @@ This is a list of everything I use and recommend for playing/streaming!
 • **XP-Pen G640 Line Friends Edition** - [US](https://amzn.to/38ughbl) / [CA](https://amzn.to/3lfVDzf) / [UK](https://amzn.to/3pdhvxy) / [IT](https://amzn.to/3n9sIgI)
 
 # Keyboards
+• **Ghost A1 (Belle Delphine Edition)** - [bruh](https://ghostkeyboards.com/products/ghost-k1-belle-delphine-edition?variant=39117030752407)
+
 • **BFKB113PBK** - You can get it off amazon.jp using [Buyee](https://bit.ly/3sE58Mq)! Sign up with [my link](https://bit.ly/3sE58Mq) for a 2,000YEN off coupon
  
 • **Epomaker G96S** - You can get it on [Epomaker.com](https://epomaker.com/products/gk96s?sca_ref=726781.Q0Hd9tVuaT&sca_source=Youtube)!
