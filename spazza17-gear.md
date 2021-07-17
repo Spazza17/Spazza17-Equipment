@@ -14,6 +14,8 @@ This is a list of everything I use and recommend for playing/streaming!
 • **XP-Pen G640 Line Friends Edition** - [US](https://amzn.to/38ughbl) / [CA](https://amzn.to/3lfVDzf) / [UK](https://amzn.to/3pdhvxy) / [IT](https://amzn.to/3n9sIgI)
 
 # Keyboards
+• **Sim Pad V2** - You can get it on https://www.momokai.com using code SPAZZA at checkout!
+
 • **Ghost A1 (Belle Delphine Edition)** - [bruh](https://ghostkeyboards.com/products/ghost-k1-belle-delphine-edition?variant=39117030752407)
 
 • **BFKB113PBK** - You can get it off amazon.jp using [Buyee](https://bit.ly/3sE58Mq)! Sign up with [my link](https://bit.ly/3sE58Mq) for a 2,000YEN off coupon
@@ -22,7 +24,7 @@ This is a list of everything I use and recommend for playing/streaming!
 
 • **Gamakay MK61** - You can get it on [Banggood.com](https://www.banggood.com/custlink/GK3Rjmup97)!
 
-• **Varmilo VA87M Sakura Pink** - You can get it on https://mechanicalkeyboards.com/ using code SPAZZA at checkout!
+• **Varmilo VA87M Sakura Pink** - You can get it on https://mechanicalkeyboards.com using code SPAZZA at checkout!
 
 • **Durgod Taurus K320 TKL Silent Red Switches** - [US](https://amzn.to/2MaSF2d) / [CA](https://amzn.to/39Rgc0q) / [UK](https://amzn.to/3sFCdYJ) / [IT](https://amzn.to/3p1Mnkl)
 
@@ -30,11 +32,11 @@ This is a list of everything I use and recommend for playing/streaming!
 
 • **HyperX Alloy Origins Red Switches** - [US](https://amzn.to/37wGCVb) / [CA](https://amzn.to/3p8bTDW) / [UK](https://amzn.to/2Kjnvp0) / [IT](https://amzn.to/3p5sCYt)
 
-• **Leopold FC900R PD Black Switches** - You can get it on https://mechanicalkeyboards.com/ using code SPAZZA at checkout!
+• **Leopold FC900R PD Black Switches** - You can get it on https://mechanicalkeyboards.com using code SPAZZA at checkout!
 
-• **Ducky Shine 6** - You can get it on https://mechanicalkeyboards.com/ using code SPAZZA at checkout!
+• **Ducky Shine 6** - You can get it on https://mechanicalkeyboards.com using code SPAZZA at checkout!
 
-• **Deck Hassium Pro** - You can get it on https://mechanicalkeyboards.com/ using code SPAZZA at checkout!
+• **Deck Hassium Pro** - You can get it on https://mechanicalkeyboards.com using code SPAZZA at checkout!
 
 # Webcams
 • **Logitech C922 Pro Stream Webcam** - [US](https://amzn.to/3mVaW27) / [CA](https://amzn.to/3eayiN6) / [UK](https://amzn.to/3dqQgvK) / [IT](https://amzn.to/2RETDXj)
