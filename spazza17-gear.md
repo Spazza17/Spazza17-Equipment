@@ -42,6 +42,8 @@ This is a list of everything I use and recommend for playing/streaming!
 
 • **Creative Pebble V2 Speakers**
 
+• **Flexispot E7Q Lite**
+
 • **Logitech G502 HERO Mouse**
 
 • **SteelSeries QcK Mouse Pad**
