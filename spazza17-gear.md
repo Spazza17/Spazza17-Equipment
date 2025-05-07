@@ -1,4 +1,4 @@
-# Spazza17's Equipment/Gear 2025 (Last update: March 2025)
+# Spazza17 Setup 2025 (Last update: March 2025)
 
 This is a list of everything I use and recommend for playing/streaming!
 
