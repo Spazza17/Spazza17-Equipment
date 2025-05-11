@@ -43,9 +43,9 @@ This is a list of everything I use for video editing/gaming/streaming! -Spazza
 • **NEEWER GL25B LED Key Lights**
 
 # Monitors
-• **BenQ ZOWIE XL2411K 144hz**
+• **Samsung Odyssey G6 OLED 240Hz**
 
-• **BenQ GL2480 75hz**
+• **BenQ ZOWIE XL2411K 144hz**
 
 # Audio
 • **Oktava MK-012 Cardioid Condenser Microphone**
