@@ -1,6 +1,6 @@
 # Spazza17 Setup 2025 (Last update: March 2025)
 
-This is a list of everything I use and recommend for playing/streaming!
+This is a list of everything I use for video editing/gaming/streaming!
 
 # PC Setup (2025)
 • **CPU: AMD Ryzen 9 7950X**
