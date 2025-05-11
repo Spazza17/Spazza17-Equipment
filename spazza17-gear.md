@@ -3,22 +3,23 @@
 This is a list of everything I use and recommend for playing/streaming!
 
 # PC Setup (2025)
+• **CPU: AMD Ryzen 9 7950X**
 
-• **AMD Ryzen 9 7950X Processor**
+• **GPU: Gigabyte GeForce RTX 4070 SUPER**
 
-• **Gigabyte GeForce RTX 4070 SUPER**
+• **RAM: Kingston FURY Beast DDR5-6000Mhz CL30 (64 GB)**
 
-• **ASRock B650M Pro RS Motherboard**
+• **MOBO: ASRock B650M Pro RS**
 
-• **Corsair RM850x Power Supply 850W**
+• **PSU: Corsair RM850x 850W**
 
-• **G.Skill F4-3200C16D-16GIS Aegis DDR4 RAM**
+• **CASE: 	Fractal Design Meshify 2 Mini**
 
-• **Cooler Master NR400 Tower Case**
+• **COOLER: ARCTIC Liquid Freezer III 240**
 
-• **WD Blue 3D NAND 1TB SSD**
+• **Samsung 990 PRO M.2 SSD (2 TB)**
 
-• **ADATA XPG SX8200 Pro 1TB SSD**
+• **Samsung 990 PRO M.2 SSD (2 TB)**
 
 # Tablets
 • **Wacom CTL-472**
@@ -69,19 +70,18 @@ This is a list of everything I use and recommend for playing/streaming!
 • **Simpeak USB Fan**
 
 # PC Setup (2020-2024🕊️)
-• **AMD Ryzen 5 3600 Processor**
+• **CPU: AMD Ryzen 5 3600**
 
-• **Gigabyte GeForce GTX 1660**
+• **GPU: Gigabyte GeForce GTX 1660**
 
-• **G.Skill F4-3200C16D-16GIS Aegis DDR4 RAM**
+• **RAM: G.Skill Aegis DDR4-3200Mhz CL16 (16 GB)**
 
-• **MSI MAG B550M Motherboard**
+• **MOBO: MSI MAG B550M**
 
-• **Corsair RM650x Power Supply 650W**
+• **PSU: Corsair RM650x 650W**
 
-• **Cooler Master NR400 Tower Case**
+• **CASE: Cooler Master NR400**
 
 • **WD Blue 3D NAND 1TB SSD**
 
 • **ADATA XPG SX8200 Pro 1TB SSD**
-
