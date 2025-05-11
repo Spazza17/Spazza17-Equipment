@@ -11,11 +11,11 @@ This is a list of everything I use for video editing/gaming/streaming!
 
 • **MOBO: ASRock B650M Pro RS**
 
-• **PSU: Corsair RM850x 850W**
-
 • **CASE: 	Fractal Design Meshify 2 Mini**
 
 • **COOLER: ARCTIC Liquid Freezer III 240**
+
+• **PSU: Corsair RM850x 850W**
 
 • **Samsung 990 PRO M.2 SSD (2 TB)**
 
@@ -78,9 +78,9 @@ This is a list of everything I use for video editing/gaming/streaming!
 
 • **MOBO: MSI MAG B550M**
 
-• **PSU: Corsair RM650x 650W**
-
 • **CASE: Cooler Master NR400**
+
+• **PSU: Corsair RM650x 650W**
 
 • **WD Blue 3D NAND 1TB SSD**
 
