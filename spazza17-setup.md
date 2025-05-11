@@ -47,8 +47,6 @@ This is a list of everything I use for video editing/gaming/streaming! -Spazza
 
 • **BenQ ZOWIE XL2411K 144hz**
 
-• **BenQ GL2480 75hz**
-
 # Audio
 • **Oktava MK-012 Cardioid Condenser Microphone**
 
