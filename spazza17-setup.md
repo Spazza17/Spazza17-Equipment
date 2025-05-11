@@ -1,8 +1,8 @@
-# Spazza17 Setup 2025 (Last update: May 2025)
+# Spazza17 Setup (Last update: May 2025)
 
-This is a list of everything I use for video editing/gaming/streaming!
+This is a list of everything I use for video editing/gaming/streaming! -Spazza
 
-# PC Setup (2025)
+# PC Setup (2025-now)
 • **CPU: AMD Ryzen 9 7950X**
 
 • **GPU: Gigabyte GeForce RTX 4070 SUPER**
@@ -47,8 +47,8 @@ This is a list of everything I use for video editing/gaming/streaming!
 
 • **BenQ GL2480 75hz**
 
-# Microphone
-• **Oktava MK-012**
+# Audio
+• **Oktava MK-012 Cardioid Condenser Microphone**
 
 • **Zoom F3 Field Recorder**
 
@@ -61,7 +61,7 @@ This is a list of everything I use for video editing/gaming/streaming!
 
 • **Creative Pebble V2 Speakers**
 
-• **Flexispot E7Q Lite**
+• **Flexispot E7Q Lite Standing Desk**
 
 • **Logitech G502 HERO Mouse**
 
