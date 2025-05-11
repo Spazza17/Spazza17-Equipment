@@ -2,6 +2,24 @@
 
 This is a list of everything I use and recommend for playing/streaming!
 
+# PC Setup (2025)
+
+• **AMD Ryzen 9 7950X Processor**
+
+• **Gigabyte GeForce RTX 4070 SUPER**
+
+• **ASRock B650M Pro RS Motherboard**
+
+• **Corsair RM850x Power Supply 850W**
+
+• **G.Skill F4-3200C16D-16GIS Aegis DDR4 RAM**
+
+• **Cooler Master NR400 Tower Case**
+
+• **WD Blue 3D NAND 1TB SSD**
+
+• **ADATA XPG SX8200 Pro 1TB SSD**
+
 # Tablets
 • **Wacom CTL-472**
 
@@ -50,16 +68,16 @@ This is a list of everything I use and recommend for playing/streaming!
 
 • **Simpeak USB Fan**
 
-# PC Setup
+# PC Setup (2020-2024🕊️)
 • **AMD Ryzen 5 3600 Processor**
 
 • **Gigabyte GeForce GTX 1660**
 
+• **G.Skill F4-3200C16D-16GIS Aegis DDR4 RAM**
+
 • **MSI MAG B550M Motherboard**
 
 • **Corsair RM650x Power Supply 650W**
-
-• **G.Skill F4-3200C16D-16GIS Aegis DDR4 RAM**
 
 • **Cooler Master NR400 Tower Case**
 
