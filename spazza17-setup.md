@@ -1,4 +1,4 @@
-# Spazza17 Setup 2025 (Last update: March 2025)
+# Spazza17 Setup 2025 (Last update: May 2025)
 
 This is a list of everything I use for video editing/gaming/streaming!
 
