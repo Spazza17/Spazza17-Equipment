@@ -63,6 +63,8 @@ This is a list of everything I use for video editing/gaming/streaming! -Spazza
 
 • **Flexispot E7Q Lite Standing Desk**
 
+• **Herman Miller Classic Aeron Chair**
+
 • **Logitech G502 HERO Mouse**
 
 • **SteelSeries QcK Mouse Pad**
