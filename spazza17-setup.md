@@ -2,7 +2,7 @@
 
 This is a list of everything I use for video editing/gaming/streaming! -Spazza
 
-# PC Setup (2025-now)
+# PC Setup (2025-now) built by [DantesFromWISH](https://www.twitch.tv/dantesfromwish/about)
 • **CPU: AMD Ryzen 9 7950X**
 
 • **GPU: Gigabyte GeForce RTX 4070 SUPER**
