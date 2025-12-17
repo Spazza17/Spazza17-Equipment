@@ -1,6 +1,6 @@
-# Spazza17 Setup (Last update: November 2025)
+# Spazza17 Setup (Last update: December 2025)
 
-This is a list of everything I use for video editing/gaming/streaming! -Spazza
+This is a list of everything I use for video editing/gaming/streaming! -Spazza17
 
 # PC Setup (2025-now) built by [DantesFromWISH](https://www.twitch.tv/dantesfromwish/about)
 • **CPU: AMD Ryzen 9 7950X**
@@ -36,11 +36,11 @@ This is a list of everything I use for video editing/gaming/streaming! -Spazza
 • **MSI Vigor GK50 Low Profile**
 
 # Cameras
-• **Sony FX30 + Sony E 16-55mm f/2.8 G**
+• **Sony FX30 + Sigma 17-40mm f/1.8 DC Art**
 
-• **Logitech C922 Pro Stream Webcam**
+• **Sony ZV-E10 II + Sigma 18-50mm f/2.8 DC DN**
 
-• **NEEWER GL25B LED Key Lights**
+• **Godox FL100 Flexible LED Light + FL-SF4060 Softbox**
 
 # Monitors
 • **Samsung Odyssey G6 OLED 240Hz**
@@ -65,11 +65,9 @@ This is a list of everything I use for video editing/gaming/streaming! -Spazza
 
 • **Herman Miller Classic Aeron Chair**
 
-• **Logitech G502 HERO Mouse**
+• **Logitech G502 Lightspeed Mouse**
 
 • **SteelSeries QcK Mouse Pad**
-
-• **Simpeak USB Fan**
 
 # PC Setup (2020-2024🕊️)
 • **CPU: AMD Ryzen 5 3600**
